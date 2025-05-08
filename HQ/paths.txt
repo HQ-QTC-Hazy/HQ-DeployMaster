@@ -1,0 +1,2 @@
+installer_path=C:\Users\1\Desktop\3DMark-v2-31-8385\3dmark-setup.exe
+key_path=C:\Users\1\Desktop\3DMark-v2-31-8385\3Dmarkkey.txt
